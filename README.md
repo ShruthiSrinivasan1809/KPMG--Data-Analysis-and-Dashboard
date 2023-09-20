@@ -15,4 +15,4 @@ Additionally, using the Python feature in Power BI, a document called "Encoded a
 
 Task3: 
 
-Involves the creation of a Dashboard that depicts the real-time alterations made in the dataset. Power BI has helped to build an interactive dashboard that can provide insights and customer behavior in a real-time environment. This can help the company to make informed decisions about customer trends and act accordingly to sustain the business. Submission is made in the form of a PPT.
+Involves the creation of a Dashboard that depicts the real-time alterations made in the dataset. Power BI has helped to build an interactive dashboard that can provide insights and customer behavior in a real-time environment. This can help the company to make informed decisions about customer trends and act accordingly to sustain the business. Submission is made in the form of a PPT. Additionally, PowerBI's Q&A facility is used to deliver the insights in the question. 
